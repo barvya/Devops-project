@@ -7,3 +7,5 @@ sonarqube
 jenkins
 dockers
 nexus 
+tomcat
+maven
