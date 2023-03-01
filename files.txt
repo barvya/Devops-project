@@ -4,3 +4,5 @@ python
 java
 redhat
 linux
+sonarqube 
+jenkins
