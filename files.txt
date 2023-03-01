@@ -9,3 +9,5 @@ dockers
 nexus 
 tomcat
 maven
+sql
+psqls
