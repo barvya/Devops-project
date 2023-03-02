@@ -1,7 +1,6 @@
 c
 c++
 python
-java
 linux
 sonarqube 
 jenkins
