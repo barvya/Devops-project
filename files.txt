@@ -11,4 +11,3 @@ tomcat
 maven
 sql
 psqls
-bhargav
