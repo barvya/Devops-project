@@ -10,4 +10,3 @@ nexus
 tomcat
 maven
 sql
-psqls
